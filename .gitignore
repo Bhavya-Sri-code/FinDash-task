@@ -13,7 +13,6 @@ dist-ssr
 *.local
 node_modules
 dist
-.antigravity
 .vscode
 # Editor directories and files
 .vscode/*
